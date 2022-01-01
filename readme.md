@@ -1,5 +1,4 @@
-This repo contains two html files. 
-This repo contains the R code that creates these html files. 
-These two files are linked directly into a webpage that will live on the CID website. 
-These two html files are created in R. 
-Directly editing these html files will not be productive. 
+This repo contains the following: 
+1) HTML files for 3 interactive visualizations,
+2) HTML code to construct a webpage to house the interactive visualiztions,
+3) R code that creates interactive visualization files. 
